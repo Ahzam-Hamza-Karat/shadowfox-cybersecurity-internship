@@ -19,8 +19,11 @@ This repository documents the work completed during my one-month Virtual Cyber S
 - **PE Analysis** — Used PE Explorer to find entry point of a Windows executable
 - **Reverse Shell** — Generated Meterpreter payload using msfvenom, established reverse shell via Metasploit
 
-### Hard Task
-- **TryHackMe Basic Pentesting** — Completed full penetration test including enumeration, brute forcing, SSH key cracking, and privilege escalation
+### Hard Task (Personal Learning — Completed Post-Submission)
+- **TryHackMe Basic Pentesting** — Completed full penetration test 
+including enumeration, brute forcing, SSH key cracking, and privilege 
+escalation. Done independently after official submission for hands-on 
+practice.
 
 ## Tools Used
 | Tool | Purpose |
