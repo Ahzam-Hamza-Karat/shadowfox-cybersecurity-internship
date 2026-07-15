@@ -20,12 +20,11 @@ This repository documents the work completed during my one-month Virtual Cyber S
 - **Reverse Shell** — Generated Meterpreter payload using msfvenom, established reverse shell via Metasploit
 
 ### Hard Task (Personal Learning — Completed Post-Submission)
-- **TryHackMe Basic Pentesting** — Completed full penetration test 
-including enumeration, brute forcing, SSH key cracking, and privilege 
-escalation. Done independently after official submission for hands-on 
-practice.
+- **TryHackMe Basic Pentesting** — Completed full penetration test including enumeration, brute forcing, SSH key cracking, and privilege escalation. Done independently after official submission for hands-on practice.
 
 ## Tools Used
+
+### Internship Tasks
 | Tool | Purpose |
 |------|---------|
 | Nmap | Port scanning and service enumeration |
@@ -35,10 +34,16 @@ practice.
 | VeraCrypt | Encrypted volume mounting |
 | PE Explorer | Executable static analysis |
 | Metasploit | Reverse shell payload and handler |
-| Hydra | SSH brute force |
+
+### TryHackMe Basic Pentesting
+| Tool | Purpose |
+|------|---------|
+| Hydra | SSH brute force attack |
 | John the Ripper | SSH private key passphrase cracking |
 
 ## Certificate
+![Certificate](Certificate/ShadowFox_Certificate.jpg)
+
 Certificate ID: SF06VIP612
 Issued by: ShadowFox | Signed by: Aakash S, Program Coordinator
 
