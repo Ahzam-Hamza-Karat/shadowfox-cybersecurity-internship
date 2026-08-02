@@ -1,5 +1,4 @@
 # ShadowFox Cybersecurity Internship
-
 ![ShadowFox](https://img.shields.io/badge/ShadowFox-Cyber%20Security%20Intern-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 ![Duration](https://img.shields.io/badge/Duration-June%202026-blue)
@@ -8,7 +7,6 @@
 This repository documents the work completed during my one-month Virtual Cyber Security Internship at ShadowFox (Program ID: SF-PID-2026-C1541), from 1st June 2026 to 30th June 2026.
 
 ## Tasks Completed
-
 ### Beginner Tasks
 - **Port Scanning** — Nmap scan on testasp.vulnweb.com to find open ports and services
 - **Directory Enumeration** — Gobuster brute force to discover hidden directories
@@ -23,7 +21,6 @@ This repository documents the work completed during my one-month Virtual Cyber S
 - **TryHackMe Basic Pentesting** — Completed full penetration test including enumeration, brute forcing, SSH key cracking, and privilege escalation. Done independently after official submission for hands-on practice.
 
 ## Tools Used
-
 ### Internship Tasks
 | Tool | Purpose |
 |------|---------|
@@ -46,6 +43,14 @@ This repository documents the work completed during my one-month Virtual Cyber S
 
 Certificate ID: SF06VIP612
 Issued by: ShadowFox | Signed by: Aakash S, Program Coordinator
+
+## Full Report
+The complete internship report — covering all attack vectors, findings, and detailed writeups — is available here:
+
+📄 [ShadowFox_Internship_Report.pdf](Report/ShadowFox_Internship_Report.pdf)
+
+## Screenshots
+All 19 proof-of-work screenshots referenced in the report are available in the [Screenshots](Screenshots) folder.
 
 ## Author
 **Ahzam Hamza Karat**
